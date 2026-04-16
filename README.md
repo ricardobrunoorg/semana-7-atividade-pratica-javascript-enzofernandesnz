@@ -5,12 +5,13 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Enzo fernandes Alcantara
+- Matricula: 908460
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Tela 1](public/img/tela.png)
+![Tela 1](public/img/tela1.png)
 
 
 
